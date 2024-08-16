@@ -20,7 +20,7 @@
 ### My Projects 🗃️
 - McHacks 2024 [Volt](https://devpost.com/software/volt-ap0iog) - a system responsible for delivering charging devices to electrical cars.
 - Museum management [website](https://github.com/ZahraLandou/project-group-17) - a web application providing various services to distinct museum stakeholders.
-- Todo App [website](https://github.com/ZahraLandou/TodoApp) - a beautifully designed task management application with a pastel theme, built using React Native and TypeScript.
+- Todo App [repository](https://github.com/ZahraLandou/TodoApp) - a beautifully designed task management application with a pastel theme, built using React Native and TypeScript.
 
 
 ### What I'm working on
