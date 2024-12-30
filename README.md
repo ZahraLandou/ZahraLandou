@@ -14,7 +14,7 @@
 - **Libraries & frameworks**: React Native, Redux, Spring
 - **Version control & collaboration tools**: Git/Github, Bitbucket, Jira
 - **Test automation tools**: Junit, Cucumber
-- **Languages**: Engligh, French
+- **Languages**: English, French
 
 
 ### My Projects 🗃️
