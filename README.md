@@ -3,7 +3,7 @@
 ### About Me:
 - 🎓 Pursuing a Bachelor of Software Engineering at McGill University.
 - 🌐 Fluent in French and proficient in English, with a knack for clear and effective communication.
-- 💻 Proficient in Java, C, Python, and familiar with tools like Git/Github, Jira, and Jenkins.
+- 💻 Proficient in Java, C, Python, and familiar with tools like Git/Github, Figma, and Jenkins.
 - 🤝 I thrive in collaborative environments, adept in Agile development and passionate about optimizing team dynamics.
 
 
@@ -13,14 +13,16 @@
 - **Cloud environments**: AWS, Azure
 - **Libraries & frameworks**: React Native, Redux, Spring
 - **Version control & collaboration tools**: Git/Github, Bitbucket, Jira
-- **Test automation tools**: Junit, Cucumber
+- **Test automation tools**: Junit, Cucumber, PyTest
+- **Other tools**: DBeaver, Docker, Figma, Gradle, Kubernetes, Postman
 - **Languages**: English, French
 
 
 ### My Projects 🗃️
-- McHacks 2024 [Volt](https://devpost.com/software/volt-ap0iog) - a system responsible for delivering charging devices to electrical cars.
+- McHacks 2024 [Volt](https://devpost.com/software/volt-ap0iog) - a system responsible for delivering charging devices to electric cars.
 - Museum management [website](https://github.com/ZahraLandou/project-group-17) - a web application providing various services to distinct museum stakeholders.
 - Todo App [repository](https://github.com/ZahraLandou/TodoApp) - a beautifully designed task management application with a pastel theme, built using React Native and TypeScript.
+- Office Support for Not-for-Profit Companies [website](https://github.com/ZahraLandou/Office-Support-for-Not-for-Profit-Companies) - a web application tailored for task management, activity reporting, and internal communication in a Not-for-Profit company.
 
 
 ### What I'm working on
